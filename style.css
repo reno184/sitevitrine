@@ -1,0 +1,13 @@
+.mamba, .mamba body{
+  background: #f8eeb4 url('texture.jpg')
+}
+.mamba .jumbotron{
+  background-color: white;
+}
+
+.mamba .btn-success{
+  background-color: #0B6700
+}
+.mamba .text-success{
+  color : #0B6700!important;
+}
